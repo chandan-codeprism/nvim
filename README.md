@@ -6,7 +6,7 @@ This is a custom **Neovim** configuration inspired by [NvChad](https://github.co
 ## 🚀 Installation  
 ### **1. Clone the Repository**  
 ```sh
-git clone https://github.com/your-username/repo-name.git ~/.config/nvim
+git clone https://github.com/chandan-codeprism/nvim.git ~/.config/nvim
 ```
 ### **2. Install Dependencies**  
 Ensure you have **Neovim (0.9+), Git, and Nerd Fonts** installed.
