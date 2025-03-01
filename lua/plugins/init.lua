@@ -60,7 +60,7 @@ return {
    	opts = {
    		ensure_installed = {
    			"vim", "lua", "vimdoc",
-        "html", "cssd"
+        "html", "css"
      },
     },
   },
